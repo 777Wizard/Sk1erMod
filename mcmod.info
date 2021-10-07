@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cpsmod",
+  "name": "Chroma SpinnerMod",
+  "description": "fidget spinner pvp. Chroma edition by Sk1er",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fyu","Sk1er"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
